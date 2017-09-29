@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:title="WEBSITE"
+
+        android:icon="@drawable/ic_web" />
+
+    <item
+        android:id="@+id/menu_email"
+        android:title="E-MAIL"
+        android:icon="@drawable/ic_email" />
+
+    <item
+        android:id="@+id/menu_sms"
+        android:title="SMS GRATIS"
+        android:icon="@drawable/ic_sms5"
+        />
+
+    <item
+        android:id="@+id/menu_share"
+        android:title="COMPARTIR"
+        android:icon="@drawable/ic_share" />
+
+    <item
+        android:id="@+id/menu_phone"
+        android:title="TELÉFONO"
+        android:icon="@drawable/ic_call2" />
+
+</menu>
